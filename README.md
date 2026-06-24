@@ -1,7 +1,10 @@
 # avaliacao-final
 Nome do aluno: Saulo de Souza Lemos
-Nome do curso: Técnico de informatica para internet 
+
+Nome do curso: Técnico de informatica para internet
+
 Uidade Curricular: UC 6: desenvolver algoritmo
+
 Descrição do sistema:
  É um jogo da forca. O jogador tenta descobrir uma palavra secreta digitando letras. Quando acerta, a letra aparece na palavra. Quando erra, perde uma tentativa. O jogo acaba quando a palavra é descoberta ou quando as tentativas terminam.
 Fiz esse tema porque é um jogo simples, divertido e permite usar vários conteúdos aprendidos em C++, como funções, repetições, condições e menu de opções.
